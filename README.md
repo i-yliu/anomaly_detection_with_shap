@@ -13,21 +13,31 @@ In this work, we aim to use reconstruction loss as a characteristic function ano
 References:
 Explaining deep neural networks with a polynomial time algorithm for Shapley values approximation (2019)
 https://arxiv.org/pdf/1903.10992.pdf 
+
 Entropy criterion in logistic regression and Shapley value of predictors (2006) https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1263&context=jmasm 
+
 A unified approach to interpreting model predictions (2017) https://arxiv.org/pdf/1705.07874.pdf 
+
 On Shapley value for measuring importance of dependent inputs (2017) https://arxiv.org/pdf/1610.02080.pdf 
+
 Explaining prediction models and individual predictions with feature contributions (2014)
 https://search-proquest-com.udel.idm.oclc.org/docview/1621073940?pq-origsite=360link
+
 Axiomatic attribution for deep network (2017)
 https://arxiv.org/pdf/1703.01365.pdf
+
 Explaining anomalies detected by autoencoders using SHAP (2019)
 https://arxiv.org/pdf/1903.02407.pdf 
+
 Additive explanations for anomalies detected from multivariate temporal data (2019)
 https://dl.acm.org/doi/abs/10.1145/3357384.3358121 
+
 Shapley values of reconstruction errors of PCA for explaining anomaly detection (2019)
 https://arxiv.org/pdf/1909.03495.pdf 
+
 On anomaly interpretation via shapley values (2020)
 https://arxiv.org/pdf/2004.04464.pdf 
+
 Efficient Computation of the Shapley Valuefor Game-Theoretic Network Centrality (2013) https://arxiv.org/pdf/1402.0567.pdf
 
 
