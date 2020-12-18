@@ -1,3 +1,6 @@
 **/data
 **/*.png
 **/*.jpg
+**/*pth
+**/anamolyDetection/AutoEncoder-SSIM-for-unsupervised-anomaly-detection-/results/*
+**/anamolyDetection/mnist_data/MNIST/*
